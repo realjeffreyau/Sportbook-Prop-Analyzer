@@ -1,7 +1,7 @@
-# PropEdge documentation
+# PropEdge documentation assets
 
-The root [`README.md`](../README.md) is the source of truth for setup, architecture, scoring, deployment, and product limitations. Keep supporting documents here concise, reproducible, and free of credentials, invite tokens, private URLs, and personal data.
+The root [`README.md`](../README.md) is the source of truth for setup, scoring, product limits, and deployment. Its screenshots are Playwright captures of the actual UI using the bundled mock feed and a synthetic sample account. Example prices, estimates, and timestamps are not live data.
 
-Screenshots are intentionally not committed until real, non-sensitive captures are available. If captures are added later, use synthetic or mock-mode data only.
+Keep screenshots free of real account information, invite tokens, API keys, and database details. Refresh them from the mock feed when the interface changes.
 
-> Documentation footer: PropEdge is an analytics tool, not financial, investment, or betting advice. Its probabilities are market-derived estimates, not guarantees. See the [full disclaimer](../README.md#disclaimer).
+> PropEdge is an analytics tool, not financial, investment, or betting advice. See the [full disclaimer](../README.md#disclaimer).

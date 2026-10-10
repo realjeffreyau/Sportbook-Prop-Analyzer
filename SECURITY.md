@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Please report suspected vulnerabilities privately through [GitHub's security advisory form](https://github.com/realjeffreyau/PropEdge/security/advisories/new). If private reporting is unavailable, contact the repository owner through a private, non-public channel before sharing details. Do not open a public issue for an unpatched vulnerability.
+Please report suspected vulnerabilities privately through [GitHub's security advisory form](https://github.com/realjeffreyau/Sportbook-Prop-Analyzer/security/advisories/new). If private reporting is unavailable, contact the repository owner through a private, non-public channel before sharing details. Do not open a public issue for an unpatched vulnerability.
 
 Include the affected area, a clear reproduction or proof of concept, the potential impact, and any suggested mitigation. Please allow maintainers reasonable time to investigate and release a fix before public disclosure.
 
